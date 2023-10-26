@@ -1,0 +1,33 @@
+.images img{
+    width: 50%;
+    height: 300px;
+}
+
+.card-image img{
+    width: 70%;
+    height: 300px;
+}
+.card-body ul{
+    list-style: none;
+    
+
+}
+
+.name{
+    width: 35%;
+    margin-left: 10%;
+
+}
+
+.email{
+    width: 35%;
+    margin-left: 10%;
+
+}
+
+.btn-3{
+    margin-left: 50%;
+}
+
+
+
